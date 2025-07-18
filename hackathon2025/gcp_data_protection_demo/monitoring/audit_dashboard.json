@@ -1,0 +1,32 @@
+{
+  "displayName": "Audit Log Dashboard",
+  "gridLayout": {
+    "columns": 2,
+    "widgets": [
+      {
+        "title": "Audit Log Count",
+        "xyChart": {
+          "dataSets": [
+            {
+              "timeSeriesQuery": {
+                "timeSeriesFilter": {
+                  "filter": "metric.type=\"logging.googleapis.com/log_entry_count\"",
+                  "aggregation": {
+                    "alignmentPeriod": "300s",
+                    "perSeriesAligner": "ALIGN_RATE"
+                  }
+                }
+              },
+              "plotType": "LINE"
+            }
+          ],
+          "timeshiftDuration": "0s",
+          "yAxis": {
+            "label": "Entries",
+            "scale": "LINEAR"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "infra-voyage-466111-u7",
+  "private_key_id": "beb9545eb4307188eaeec1a91cde01a972a830e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQDY8eBBLQeoQT\nXAZEeJwTxGTnNcdGXVnJQLwTwCKl7OgleuRHEySb2wnR6t/z1HW+jmG1w4Rr+bVq\nmtWQxopNduB2jNM0JB8yPV2Nxy1pnNoTP58sp0DjBeazi2UxETBOAKCF3NZ4cCBj\n16CVtZKroX+ktbUgV04d2w01s2rZY9l6DyatxIvrU5nH9EvADkRDyNcFhdVdBjrR\nP3NPZpCsmrvU/jdWtkuX9eC3hTn4CDZGyFcyYFK5AIshy+YIMcJxgkoMHjIDWNTf\nXQAElWLTYCjsZvRWkkBhxNtnDt83hcEv1dNCHR6UlMJO4edZ3LrzN42qNK7mH8vb\natl90nKZAgMBAAECggEABg3xoBgn61eNYrosV9oXV1SWnSCJroixQAk5ZUJo9Qwq\nYKDYEMtupsxz14nZajvrZe1jIYom3zTdQdTEqe8P1PDvLPQB127FAPjGhrAzqEhP\naPz9JwGtAo5IPZRXuwWliAzo9ExOFM4qhc1KF+E4pfRQBcfglVLaa/BVIj7Djr+V\ndoG9aKYWH89ro6Zl4FnPfVSaV+thruOewiqeDyV4Ym6BS4qRl9sKUsdZTblJGHIw\noXjyCiB9QBsFRovHs/k3Uuo8dAOIytx3ZjgR5aFcyYsMWBw4mSX+eENQtPaJN0h9\nhircBopVSP/wpy5Xu8zjJ2qnMhg9qgMVI+j6+vnHCQKBgQD8zToIoz5yXCcJCPPO\nVM15RXtY0FJSqnp3UwBoSDGF1jL2vCmpoEh7q8Rm1jDna+b++DDOi//RgikGILVp\nFJ0XVuzocGd8/YWuY4n62LVAiBc3wysrReSLtMe7xIK/4BiTZWaTDv1RhnJSOWXv\nb7offfVrYvNxm2bYK77sSAHT1QKBgQDSr2aAFs57BkZ6izqKhI2G8SK9VoFCz+bX\ndHyI/Y+fFgAuPO8obGe/b8LFBGV2Cuq7ApW4VjcQ/BodJUcitutdHuSpf/lyGbkq\nBBKKWI/UlleFa3ew/QBagWSHpgyrO+dmNqmSBtMiUGRNWMG2b4WQTGk5gv72P/7j\nT6LE1ch5tQKBgC1MHKz1izf0mS3+Q6lh+ptTPuHQGiAj2ePNpJIK9Yy0r9cUKibx\nyGsYgQ2oLYUaCX8AO8aWwVTqDK3DaJ4WintnIPYZRgHYb36q6UtgT0Hr4LUmLHMJ\niAUcdHmJoZ/96IlorvOEyRE1lQB0tnYrv97qs/H0/ggKP2hWllRCJsmtAoGAVZOh\nUs3wuM/nuMbs1G7a/cDcl4OXpYfFACb0nsA/oiLRl/ZwPj8qNPw0ZMpQXA47IhL+\ntY1veJquEMCfkF40Y/K0dpTgwZPpPkPBNCic44Dds/fe+ikKB7kfGGo+Ix+F8mKp\npgLXp8x3sWMn6+6IlgAzjYTEA0ojQjmKp+EeOTECgYEA3Bt/e0XGYzxUeSOIlF4a\n3gD2Xgv+7ZnIBwxnkQpaQxPgEjPKZY5kNwguR5S+DlKNXnUpZUurofRBXscM2rjX\nYIGFKFYetvlZgZc8k3nKZGBM7XK5rXfom6Dn0urvI2EK3zPn3PqfupLQh/m6XA/H\ndVTu7XyWBHXh5nLwoa6uSRc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@infra-voyage-466111-u7.iam.gserviceaccount.com",
+  "client_id": "107717233751708247787",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40infra-voyage-466111-u7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,4 @@
+flask
+google-cloud-pubsub
+google-cloud-dlp
+google-cloud-bigquery
