@@ -1,0 +1,9 @@
+@'
+{
+  "project_id": "infra-voyage-466111-u7",
+  "dataset_id": "metadata_repo",
+  "table_id": "test_table",
+  "text": "Sensitive record",
+  "tags": ["pii"]
+}
+'@ | Out-File -Encoding utf8 -NoByteOrderMark .\payload.json

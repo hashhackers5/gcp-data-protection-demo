@@ -1,3 +1,0 @@
-google-cloud-dlp
-flask
-google-cloud-bigquery
